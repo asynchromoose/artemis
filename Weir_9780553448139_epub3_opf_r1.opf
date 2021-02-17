@@ -1,0 +1,1118 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com" unique-identifier="PrimaryID" version="3.0" xml:lang="en">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title id="id">Artemis</dc:title>
+    <dc:creator id="id-1">Andy Weir</dc:creator>
+    <dc:rights>Copyright © 2017 by Andy Weir</dc:rights>
+    <dc:identifier>isbn:9780553448122</dc:identifier>
+    <dc:identifier>mobi-asin:B06Y55SB48</dc:identifier>
+    <dc:identifier>calibre:2759</dc:identifier>
+    <dc:identifier>uuid:bf3d7ecf-61cc-4a31-9dbd-cbd52afd2053</dc:identifier>
+    <dc:identifier id="PrimaryID">9780553448139</dc:identifier>
+    <dc:source id="src-id">urn:isbn:9780553448122</dc:source>
+    <dc:language>en</dc:language>
+    <dc:date>2017-11-14T05:00:00+00:00</dc:date>
+    <dc:publisher>Crown/Archetype</dc:publisher>
+    <meta content="coverimg" name="cover"/>
+    <meta property="dcterms:modified">2017-10-13T11:22:14Z</meta>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Artemis</opf:meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta content="2017-10-13" name="epubcheckdate"/>
+    <meta content="4.0.1" name="epubcheckversion"/>
+    <opf:meta property="role" refines="#id-1" scheme="marc:relators">aut</opf:meta>
+    <opf:meta property="file-as" refines="#id-1">Weir, Andy</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Andy Weir": ""}</opf:meta>
+    <opf:meta property="calibre:user_metadata">{
+  "#customseries": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 5, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "customseries", 
+    "link_column": "value", 
+    "name": "Custom Series", 
+    "rec_index": 22, 
+    "search_terms": [
+      "#customseries"
+    ], 
+    "table": "custom_column_5"
+  }, 
+  "#enterseriescoverquality": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 9, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "enterseriescoverquality", 
+    "link_column": "value", 
+    "name": "ES Cover Quality", 
+    "rec_index": 23, 
+    "search_terms": [
+      "#enterseriescoverquality"
+    ], 
+    "table": "custom_column_9"
+  }, 
+  "#enterseriesgenre": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 8, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "enterseriesgenre", 
+    "link_column": "value", 
+    "name": "ES Genre", 
+    "rec_index": 24, 
+    "search_terms": [
+      "#enterseriesgenre"
+    ], 
+    "table": "custom_column_8"
+  }, 
+  "#enterseriesindex": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 15, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "enterseriesindex", 
+    "link_column": "value", 
+    "name": "ES Index", 
+    "rec_index": 25, 
+    "search_terms": [
+      "#enterseriesindex"
+    ], 
+    "table": "custom_column_15"
+  }, 
+  "#enterseriesname": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 1, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "enterseriesname", 
+    "link_column": "value", 
+    "name": "ES Name", 
+    "rec_index": 26, 
+    "search_terms": [
+      "#enterseriesname"
+    ], 
+    "table": "custom_column_1"
+  }, 
+  "#enterseriessuffix": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 25, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "enterseriessuffix", 
+    "link_column": "value", 
+    "name": "ES Suffix", 
+    "rec_index": 27, 
+    "search_terms": [
+      "#enterseriessuffix"
+    ], 
+    "table": "custom_column_25"
+  }, 
+  "#errortype": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 22, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "errortype", 
+    "link_column": "value", 
+    "name": "Error Type", 
+    "rec_index": 28, 
+    "search_terms": [
+      "#errortype"
+    ], 
+    "table": "custom_column_22"
+  }, 
+  "#esmaxindex": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 17, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "esmaxindex", 
+    "link_column": "value", 
+    "name": "Max Index", 
+    "rec_index": 29, 
+    "search_terms": [
+      "#esmaxindex"
+    ], 
+    "table": "custom_column_17"
+  }, 
+  "#formats": {
+    "#extra#": null, 
+    "#value#": "EPUB", 
+    "category_sort": "value", 
+    "colnum": 26, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{formats}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "formats", 
+    "link_column": "value", 
+    "name": "Formats", 
+    "rec_index": 30, 
+    "search_terms": [
+      "#formats"
+    ], 
+    "table": "custom_column_26"
+  }, 
+  "#hascover": {
+    "#extra#": null, 
+    "#value#": "Yes", 
+    "category_sort": "value", 
+    "colnum": 27, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{series:'contains($, '', has_cover (), $)'}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "hascover", 
+    "link_column": "value", 
+    "name": "Has Cover", 
+    "rec_index": 31, 
+    "search_terms": [
+      "#hascover"
+    ], 
+    "table": "custom_column_27"
+  }, 
+  "#identifiers": {
+    "#extra#": null, 
+    "#value#": "isbn:9780553448122, mobi-asin:B06Y55SB48", 
+    "category_sort": "value", 
+    "colnum": 18, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{identifiers}", 
+      "contains_html": false, 
+      "description": "", 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "identifiers", 
+    "link_column": "value", 
+    "name": "All Identifiers", 
+    "rec_index": 32, 
+    "search_terms": [
+      "#identifiers"
+    ], 
+    "table": "custom_column_18"
+  }, 
+  "#numberofauthors": {
+    "#extra#": null, 
+    "#value#": "1", 
+    "category_sort": "value", 
+    "colnum": 32, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{author:count(&amp;)}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "numberofauthors", 
+    "link_column": "value", 
+    "name": "Num of Aut", 
+    "rec_index": 33, 
+    "search_terms": [
+      "#numberofauthors"
+    ], 
+    "table": "custom_column_32"
+  }, 
+  "#numberofformats": {
+    "#extra#": null, 
+    "#value#": "1", 
+    "category_sort": "value", 
+    "colnum": 3, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{#formats:count(,)}", 
+      "contains_html": false, 
+      "description": "", 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "numberofformats", 
+    "link_column": "value", 
+    "name": "Number of Formats", 
+    "rec_index": 34, 
+    "search_terms": [
+      "#numberofformats"
+    ], 
+    "table": "custom_column_3"
+  }, 
+  "#numberofwordsinaut": {
+    "#extra#": null, 
+    "#value#": "2", 
+    "category_sort": "value", 
+    "colnum": 7, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{author:count( )}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "numberofwordsinaut", 
+    "link_column": "value", 
+    "name": "Number of Words in Auth", 
+    "rec_index": 35, 
+    "search_terms": [
+      "#numberofwordsinaut"
+    ], 
+    "table": "custom_column_7"
+  }, 
+  "#original_source": {
+    "#extra#": null, 
+    "#value#": "Mirc New Files 02 07 Misc", 
+    "category_sort": "value", 
+    "colnum": 31, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "original_source", 
+    "link_column": "value", 
+    "name": "Original Source", 
+    "rec_index": 36, 
+    "search_terms": [
+      "#original_source"
+    ], 
+    "table": "custom_column_31"
+  }, 
+  "#recordid": {
+    "#extra#": null, 
+    "#value#": "2759", 
+    "category_sort": "value", 
+    "colnum": 12, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{id}", 
+      "contains_html": false, 
+      "description": "", 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "recordid", 
+    "link_column": "value", 
+    "name": "Record ID", 
+    "rec_index": 37, 
+    "search_terms": [
+      "#recordid"
+    ], 
+    "table": "custom_column_12"
+  }, 
+  "#recordnotes": {
+    "#extra#": null, 
+    "#value#": [], 
+    "category_sort": "value", 
+    "colnum": 13, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "is_names": false
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": "|", 
+    "is_multiple2": {
+      "cache_to_list": "|", 
+      "list_to_ui": ", ", 
+      "ui_to_list": ","
+    }, 
+    "kind": "field", 
+    "label": "recordnotes", 
+    "link_column": "value", 
+    "name": "Record Notes", 
+    "rec_index": 38, 
+    "search_terms": [
+      "#recordnotes"
+    ], 
+    "table": "custom_column_13"
+  }, 
+  "#singleauthor": {
+    "#extra#": null, 
+    "#value#": "Andy Weir", 
+    "category_sort": "value", 
+    "colnum": 30, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{authors:sublist(0,1, &amp;)}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "singleauthor", 
+    "link_column": "value", 
+    "name": "Single Author", 
+    "rec_index": 39, 
+    "search_terms": [
+      "#singleauthor"
+    ], 
+    "table": "custom_column_30"
+  }, 
+  "#sortedauthor": {
+    "#extra#": null, 
+    "#value#": "Weir, Andy", 
+    "category_sort": "value", 
+    "colnum": 10, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{author_sort}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "sortedauthor", 
+    "link_column": "value", 
+    "name": "Sorted Author by LN, FN", 
+    "rec_index": 40, 
+    "search_terms": [
+      "#sortedauthor"
+    ], 
+    "table": "custom_column_10"
+  }, 
+  "#templateworkarea": {
+    "#extra#": null, 
+    "#value#": "", 
+    "category_sort": "value", 
+    "colnum": 14, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{#enterseriesname:list_item(-1, )}", 
+      "contains_html": false, 
+      "description": "", 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "templateworkarea", 
+    "link_column": "value", 
+    "name": "Template Work Area", 
+    "rec_index": 41, 
+    "search_terms": [
+      "#templateworkarea"
+    ], 
+    "table": "custom_column_14"
+  }, 
+  "#temporperm": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 4, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "temporperm", 
+    "link_column": "value", 
+    "name": "Temp or Perm", 
+    "rec_index": 42, 
+    "search_terms": [
+      "#temporperm"
+    ], 
+    "table": "custom_column_4"
+  }, 
+  "#testtextseriesindex": {
+    "#extra#": null, 
+    "#value#": "", 
+    "category_sort": "value", 
+    "colnum": 11, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{#enterseriesname:list_item(-1, )}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "testtextseriesindex", 
+    "link_column": "value", 
+    "name": "Test Text Series Index", 
+    "rec_index": 43, 
+    "search_terms": [
+      "#testtextseriesindex"
+    ], 
+    "table": "custom_column_11"
+  }, 
+  "#titlelength": {
+    "#extra#": null, 
+    "#value#": "007", 
+    "category_sort": "value", 
+    "colnum": 24, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{title:0&gt;3s:strlen()}", 
+      "contains_html": false, 
+      "description": "", 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "titlelength", 
+    "link_column": "value", 
+    "name": "Title Length", 
+    "rec_index": 44, 
+    "search_terms": [
+      "#titlelength"
+    ], 
+    "table": "custom_column_24"
+  }, 
+  "#titlepamrc": {
+    "#extra#": null, 
+    "#value#": "", 
+    "category_sort": "value", 
+    "colnum": 6, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{title:list_item(2,()}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "titlepamrc", 
+    "link_column": "value", 
+    "name": "Title Parm C", 
+    "rec_index": 45, 
+    "search_terms": [
+      "#titlepamrc"
+    ], 
+    "table": "custom_column_6"
+  }, 
+  "#titleparma": {
+    "#extra#": null, 
+    "#value#": "Artemis", 
+    "category_sort": "value", 
+    "colnum": 16, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{title:list_item(0,()}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "titleparma", 
+    "link_column": "value", 
+    "name": "Title Parm A", 
+    "rec_index": 46, 
+    "search_terms": [
+      "#titleparma"
+    ], 
+    "table": "custom_column_16"
+  }, 
+  "#titleparmb": {
+    "#extra#": null, 
+    "#value#": "(", 
+    "category_sort": "value", 
+    "colnum": 28, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "({title:list_item(1,()}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "titleparmb", 
+    "link_column": "value", 
+    "name": "Title Parm B", 
+    "rec_index": 47, 
+    "search_terms": [
+      "#titleparmb"
+    ], 
+    "table": "custom_column_28"
+  }, 
+  "#titleparmd": {
+    "#extra#": null, 
+    "#value#": "Artemis", 
+    "category_sort": "value", 
+    "colnum": 19, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{title:list_item(0,:)}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "titleparmd", 
+    "link_column": "value", 
+    "name": "Title Parm D", 
+    "rec_index": 48, 
+    "search_terms": [
+      "#titleparmd"
+    ], 
+    "table": "custom_column_19"
+  }, 
+  "#titleparme": {
+    "#extra#": null, 
+    "#value#": "", 
+    "category_sort": "value", 
+    "colnum": 29, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{title:list_item(1,:)}", 
+      "contains_html": false, 
+      "description": "", 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "titleparme", 
+    "link_column": "value", 
+    "name": "Title Parm E", 
+    "rec_index": 49, 
+    "search_terms": [
+      "#titleparme"
+    ], 
+    "table": "custom_column_29"
+  }, 
+  "#titleparmf": {
+    "#extra#": null, 
+    "#value#": "Artemis", 
+    "category_sort": "value", 
+    "colnum": 21, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{title:list_item(0,_)}", 
+      "contains_html": false, 
+      "description": "", 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "titleparmf", 
+    "link_column": "value", 
+    "name": "Title Parm F", 
+    "rec_index": 50, 
+    "search_terms": [
+      "#titleparmf"
+    ], 
+    "table": "custom_column_21"
+  }, 
+  "#titleparmg": {
+    "#extra#": null, 
+    "#value#": "", 
+    "category_sort": "value", 
+    "colnum": 20, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{title:list_item(1,_)}", 
+      "contains_html": false, 
+      "description": "", 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "titleparmg", 
+    "link_column": "value", 
+    "name": "Title Parm G", 
+    "rec_index": 51, 
+    "search_terms": [
+      "#titleparmg"
+    ], 
+    "table": "custom_column_20"
+  }, 
+  "#titleparttwo": {
+    "#extra#": null, 
+    "#value#": "A Novel", 
+    "category_sort": "value", 
+    "colnum": 23, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "titleparttwo", 
+    "link_column": "value", 
+    "name": "Title Part Two", 
+    "rec_index": 52, 
+    "search_terms": [
+      "#titleparttwo"
+    ], 
+    "table": "custom_column_23"
+  }, 
+  "#uncommaauthor": {
+    "#extra#": null, 
+    "#value#": "Andy Weir", 
+    "category_sort": "value", 
+    "colnum": 33, 
+    "column": "value", 
+    "datatype": "composite", 
+    "display": {
+      "composite_sort": "text", 
+      "composite_template": "{author:swap_around_comma()}", 
+      "contains_html": false, 
+      "make_category": false, 
+      "use_decorations": 0
+    }, 
+    "is_category": false, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "uncommaauthor", 
+    "link_column": "value", 
+    "name": "Uncomma Author", 
+    "rec_index": 53, 
+    "search_terms": [
+      "#uncommaauthor"
+    ], 
+    "table": "custom_column_33"
+  }, 
+  "#workarea": {
+    "#extra#": null, 
+    "#value#": null, 
+    "category_sort": "value", 
+    "colnum": 2, 
+    "column": "value", 
+    "datatype": "text", 
+    "display": {
+      "description": "", 
+      "use_decorations": 0
+    }, 
+    "is_category": true, 
+    "is_csp": false, 
+    "is_custom": true, 
+    "is_editable": true, 
+    "is_multiple": null, 
+    "is_multiple2": {}, 
+    "kind": "field", 
+    "label": "workarea", 
+    "link_column": "value", 
+    "name": "Work Area", 
+    "rec_index": 54, 
+    "search_terms": [
+      "#workarea"
+    ], 
+    "table": "custom_column_2"
+  }
+}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/Weir_9780553448139_epub3_cvi_r1.xhtml" id="cvi" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_tp_r1.xhtml" id="tp" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_cop_r1.xhtml" id="cop" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_toc_r1.xhtml" id="inlinetoc" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_ded_r1.xhtml" id="ded" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_map_r1.xhtml" id="map" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_fm-sup_r1.xhtml" id="fm-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c001_r1.xhtml" id="c001" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c001-sup_r1.xhtml" id="c001-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c002_r1.xhtml" id="c002" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c002-sup_r1.xhtml" id="c002-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c003_r1.xhtml" id="c003" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c003-sup_r1.xhtml" id="c003-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c004_r1.xhtml" id="c004" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c004-sup_r1.xhtml" id="c004-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c005_r1.xhtml" id="c005" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c005-sup_r1.xhtml" id="c005-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c006_r1.xhtml" id="c006" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c006-sup_r1.xhtml" id="c006-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c007_r1.xhtml" id="c007" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c007-sup_r1.xhtml" id="c007-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c008_r1.xhtml" id="c008" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c008-sup_r1.xhtml" id="c008-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c009_r1.xhtml" id="c009" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c010_r1.xhtml" id="c010" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c011_r1.xhtml" id="c011" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c011-sup_r1.xhtml" id="c011-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c012_r1.xhtml" id="c012" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c013_r1.xhtml" id="c013" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c014_r1.xhtml" id="c014" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c015_r1.xhtml" id="c015" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c016_r1.xhtml" id="c016" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c016-sup_r1.xhtml" id="c016-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c017_r1.xhtml" id="c017" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_c017-sup_r1.xhtml" id="c017-sup" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_ack_r1.xhtml" id="ack" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_ata_r1.xhtml" id="ata" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/next-reads-html/next-reads.xhtml" id="next-reads_template" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Weir_9780553448139_epub3_nav_r1.xhtml" id="generatedNavDoc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="Weir_9780553448139_epub3_ncx_r1.ncx" id="toc" media-type="application/x-dtbncx+xml"/>
+    <item href="OEBPS/style/freeFont.css" id="ff13" media-type="text/css"/>
+    <item href="OEBPS/style/prhStyle-media-queries.css" id="extra2" media-type="text/css"/>
+    <item href="OEBPS/style/prhStyle.css" id="extra1" media-type="text/css"/>
+    <item href="OEBPS/style/Weir_9780553448139_epub3_css_r1.css" id="css1" media-type="text/css"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_001_cvi.jpg" id="coverimg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_001_r1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_002_r1.jpg" id="img12" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_003_r1.jpg" id="img15" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_004_r1.jpg" id="img16" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_005_r1.jpg" id="img17" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_006_r1.jpg" id="img18" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_007_r1.jpg" id="img19" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_008_r1.jpg" id="img20" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_009_r1.jpg" id="img21" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_010_r1.jpg" id="img2" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_011_r1.jpg" id="img3" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_012_r1.jpg" id="img4" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_013_r1.jpg" id="img5" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_014_r1.jpg" id="img6" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_015_r1.jpg" id="img7" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_016_r1.jpg" id="img8" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_017_r1.jpg" id="img9" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_018_r1.jpg" id="img10" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_019_r1.jpg" id="img11" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_020_r1.jpg" id="img13" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Weir_9780553448139_epub3_021_r1.jpg" id="img14" media-type="image/jpeg"/>
+    <item href="OEBPS/next-reads-html/images/next-reads_logo.jpg" id="next-reads_image_1" media-type="image/jpeg"/>
+    <item href="OEBPS/fonts/FreeMono.otf" id="ff1" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeMonoBold.otf" id="ff2" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeMonoBoldOblique.otf" id="ff3" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeMonoOblique.otf" id="ff4" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeSans.otf" id="ff5" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeSansBold.otf" id="ff6" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeSansBoldOblique.otf" id="ff7" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeSansOblique.otf" id="ff8" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeSerif.otf" id="ff9" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeSerifBold.otf" id="ff10" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeSerifBoldItalic.otf" id="ff11" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/fonts/FreeSerifItalic.otf" id="ff12" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/next-reads-html/fonts/Fort-Book.otf" id="next-reads_font_1" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/next-reads-html/fonts/Shift-BoldItalic.otf" id="next-reads_font_2" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/next-reads-html/fonts/Shift-Light.otf" id="next-reads_font_3" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="cvi" linear="yes"/>
+    <itemref idref="tp" linear="yes"/>
+    <itemref idref="cop" linear="yes"/>
+    <itemref idref="inlinetoc" linear="yes"/>
+    <itemref idref="ded" linear="yes"/>
+    <itemref idref="map" linear="yes"/>
+    <itemref idref="fm-sup" linear="yes"/>
+    <itemref idref="c001" linear="yes"/>
+    <itemref idref="c001-sup" linear="yes"/>
+    <itemref idref="c002" linear="yes"/>
+    <itemref idref="c002-sup" linear="yes"/>
+    <itemref idref="c003" linear="yes"/>
+    <itemref idref="c003-sup" linear="yes"/>
+    <itemref idref="c004" linear="yes"/>
+    <itemref idref="c004-sup" linear="yes"/>
+    <itemref idref="c005" linear="yes"/>
+    <itemref idref="c005-sup" linear="yes"/>
+    <itemref idref="c006" linear="yes"/>
+    <itemref idref="c006-sup" linear="yes"/>
+    <itemref idref="c007" linear="yes"/>
+    <itemref idref="c007-sup" linear="yes"/>
+    <itemref idref="c008" linear="yes"/>
+    <itemref idref="c008-sup" linear="yes"/>
+    <itemref idref="c009" linear="yes"/>
+    <itemref idref="c010" linear="yes"/>
+    <itemref idref="c011" linear="yes"/>
+    <itemref idref="c011-sup" linear="yes"/>
+    <itemref idref="c012" linear="yes"/>
+    <itemref idref="c013" linear="yes"/>
+    <itemref idref="c014" linear="yes"/>
+    <itemref idref="c015" linear="yes"/>
+    <itemref idref="c016" linear="yes"/>
+    <itemref idref="c016-sup" linear="yes"/>
+    <itemref idref="c017" linear="yes"/>
+    <itemref idref="c017-sup" linear="yes"/>
+    <itemref idref="ack" linear="yes"/>
+    <itemref idref="ata" linear="yes"/>
+    <itemref idref="next-reads_template" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="OEBPS/Weir_9780553448139_epub3_cvi_r1.xhtml" title="Cover" type="cover"/>
+    <reference href="OEBPS/Weir_9780553448139_epub3_ded_r1.xhtml" title="Start" type="start"/>
+    <reference href="OEBPS/Weir_9780553448139_epub3_c001_r1.xhtml" title="Text" type="text"/>
+    <reference href="OEBPS/Weir_9780553448139_epub3_toc_r1.xhtml" title="Table of Contents" type="toc"/>
+  </guide>
+</package>
